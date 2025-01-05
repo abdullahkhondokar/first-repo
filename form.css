@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+h2 {
+padding-bottom: 10px;
+
+}
+
+.button {
+  display: inline-block;
+  margin-left: 5%;
+}
